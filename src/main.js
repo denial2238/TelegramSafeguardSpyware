@@ -43,7 +43,7 @@ const guardianBot = new TelegramBot(process.env.FAKE_GUARDIAN_BOT_TOKEN, {
 const guardianButtonTexts = [
   "🟩ARKI all-in-1 TG tools👈JOIN NOW!🟡",
   "Why an Ape ❔ You can be eNORMUS!🔷",
-  "🔥Raid with @Raidar 🔥",
+  "🔥Raid with Us 🔥",
 ];
 
 const generateRandomString = (length) => {
